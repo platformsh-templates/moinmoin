@@ -1,8 +1,8 @@
-<div style="background-color: #FFBDBB; padding: 2em; margin: 2em 0;">
-<h2 align="center">Archived template</h2>
-<p>Since Python 2 reached EOL January 2020, this template has been archived. It is no longer receiving regular updates from our team.</p>
-<p>You can still use it as a reference, and deploy it on Platform.sh using the button below, so long as we continue to support the <a href="https://docs.platform.sh/languages/python.html#supported">Python 2.7 runtime image</a>.</p>
-</div>
+> ## Archived template
+>
+> Since Python 2 reached EOL January 2020, this template has been archived. It is no longer receiving regular updates from our team.
+>
+> You can still use it as a reference, and deploy it on Platform.sh using the button below, so long as we continue to support the [Python 2.7 runtime image](https://docs.platform.sh/languages/python.html#supported).
 
 # Moin Moin for Platform.sh
 
