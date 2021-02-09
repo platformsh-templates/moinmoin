@@ -1,9 +1,0 @@
-<svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="500" height="100">
-    <div style="background-color: #FFBDBB; padding: 2em; margin: 2em 0;">
-    <h2 align="center">Archived template</h2>
-    <p>Since Python 2 reached EOL January 2020, this template has been archived. It is no longer receiving regular updates from our team.</p>
-    <p>You can still use it as a reference, and deploy it on Platform.sh using the button below, so long as we continue to support the <a href="https://docs.platform.sh/languages/python.html#supported">Python 2.7 runtime image</a>.</p>
-    </div>
-</foreignObject>
-</svg>
