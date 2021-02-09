@@ -1,10 +1,8 @@
-# Moin Moin for Platform.sh
+> ## Archived template
+>
+> Since Python 2 reached EOL January 2020, this template has been archived. You can still use it as a reference, but it is no longer receiving regular updates from our team.
 
-<p align="center">
-<a href="https://console.platform.sh/projects/create-project?template=https://raw.githubusercontent.com/platformsh/template-builder/master/templates/moinmoin/.platform.template.yaml&utm_content=moinmoin&utm_source=github&utm_medium=button&utm_campaign=deploy_on_platform">
-    <img src="https://platform.sh/images/deploy/lg-blue.svg" alt="Deploy on Platform.sh" width="180px" />
-</a>
-</p>
+# Moin Moin for Platform.sh
 
 This template builds a Moin Moin wiki on Platform.sh.  The project doesn't include Moin Moin itself; rather, it includes build and deploy scripts that will download Moin Moin on the fly.
 
